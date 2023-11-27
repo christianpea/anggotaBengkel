@@ -1,9 +1,3 @@
-/* FONT */
-@font-face {
-  font-family: "AlfaSlab";
-  src: url(../fonts/AlfaSlabOne-Regular.ttf) format("ttf");
-}
-
 /* style utama */
 body {
   font: 18px/36px "AlfaSlab" arial, sans-serif;
